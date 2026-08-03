@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(197, 198, 139);
+}
+.container{
+    margin: 150px;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+#text{
+   background-color: rgb(60, 60, 27);
+    color: white;
+    align-items: center;
+    margin: auto;
+    fixed: center;
+}
+#btn{
+   background-color: rgb(46, 94, 115);
+    color: white;
+    margin: auto;
+}
