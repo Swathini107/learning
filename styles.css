@@ -14,7 +14,6 @@ body{
     color: white;
     align-items: center;
     margin: auto;
-    fixed: center;
 }
 #btn{
    background-color: rgb(46, 94, 115);
