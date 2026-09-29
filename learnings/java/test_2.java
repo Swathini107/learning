@@ -1,3 +1,4 @@
+package java;
 import java.util.*;
 public class test_2 {
     public static void main(String[] args) {
